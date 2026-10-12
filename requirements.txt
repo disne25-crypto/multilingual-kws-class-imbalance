@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+torchaudio
+transformers
+scikit-learn
+scipy
+tqdm
+openpyxl
+jupyter
